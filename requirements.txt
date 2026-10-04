@@ -1,0 +1,10 @@
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+xgboost>=2.0
+scipy>=1.11
+matplotlib>=3.8
+seaborn>=0.13
+shap>=0.44
+torch>=2.0
+lifelines>=0.30
